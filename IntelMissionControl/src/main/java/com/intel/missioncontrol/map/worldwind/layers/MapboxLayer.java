@@ -48,15 +48,15 @@ import org.asyncfx.concurrent.Dispatcher;
 public class MapboxLayer extends FastMercatorTiledImageLayer {
 
     public static class Keys {
-        static final String defMapID_pureSat = "gaponov/ckvb2cmmc09ya16s5ryzzjwje";
+        static final String defMapID_pureSat = "ckvb2cmmc09ya16s5ryzzjwje";
         public static final String defAccessToken =
                 "pk.eyJ1IjoiZ2Fwb25vdiIsImEiOiJja3RzZHg2a2IweHhxMm5xb3kyb3lhYmg0In0.kCn2T_NShJO8Y5KSY_uccQ";
 
-        static final String defMapID_hybrid = "gaponov/cku3zcfzb154u18ti11zjm6ez";
+        static final String defMapID_hybrid = "cku3zcfzb154u18ti11zjm6ez";
         static final String defAccessTokenHybrid =
                 "pk.eyJ1IjoiZ2Fwb25vdiIsImEiOiJja3RzZHg2a2IweHhxMm5xb3kyb3lhYmg0In0.kCn2T_NShJO8Y5KSY_uccQ";
 
-        static final String defMapID_pureStreets = "gaponov/ckvb2aee8c2dw14s7xmqcx9y8";
+        static final String defMapID_pureStreets = "ckvb2aee8c2dw14s7xmqcx9y8";
         static final String defAccessTokenPureStreets =
                 "pk.eyJ1IjoiZ2Fwb25vdiIsImEiOiJja3RzZHg2a2IweHhxMm5xb3kyb3lhYmg0In0.kCn2T_NShJO8Y5KSY_uccQ";
     }
